@@ -1,1 +1,31 @@
 # Dustykie.github.io
+<!DOCTYPE html>
+<html lang="en">
+</title>CV.sinhvien</title>
+</head></head>
+<body>
+    <h1>Contact us  </h1> 
+    <form action="form.php" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <br>
+            <label for="email">Email:</label>
+        <input type="emial" id="email" name="email" required>
+        <br>
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" name="phone" required>
+        <br>
+        <label for="message">Message:</label>
+        <textarea id="message"name="message" required></textarea>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+
+
+    <ul style="color: rgb(103, 151, 240);">
+        <li>MSSV:23070448</li>
+        <li>Sinh viên trường: Trường Quốc tế - Đại học Quốc gia Hà Nội</li>
+    </ul>
+    
+<body>
+<html>
