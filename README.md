@@ -4,6 +4,7 @@
 </title>CV.sinhvien</title>
 </head></head>
 <body>
+    <table>
     <h1>Contact us  </h1> 
     <form action="form.php" method="post">
         <label for="name">Name:</label>
@@ -16,16 +17,18 @@
         <input type="tel" id="phone" name="phone" required>
         <br>
         <label for="message">Message:</label>
-        <textarea id="message"name="message" required></textarea>
+        <textarea> id="message"name="message" required></textarea>
         <br>
         <input type="submit" value="Submit">
     </form>
+    </table>
 
 
     <ul style="color: rgb(103, 151, 240);">
+        <li>Họ và tên: Nguyễn Trần Nguyên Hùng</li>
         <li>MSSV:23070448</li>
         <li>Sinh viên trường: Trường Quốc tế - Đại học Quốc gia Hà Nội</li>
     </ul>
     
-<body>
-<html>
+</body>
+</html>
