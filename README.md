@@ -29,8 +29,6 @@
         <li>MSSV:23070448</li>
         <li>Sinh viên trường: Trường Quốc tế - Đại học Quốc gia Hà Nội</li>
     </ul>
-    <!DOCTYPE html>
-<html>
 <head>
 <meta charset="UTF-8">
 <title>Create product list with CSS3</title>
