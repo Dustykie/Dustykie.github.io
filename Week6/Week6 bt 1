@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <input type="text" id="txta">
+   <input type="text" id="txtb">
+   <button onclick="tongab()">
+        Tổng ab
+    </button>
+</body>
+<script>
+    function tongab() {
+        var value1 = parseFloat(document.getElementById('txta').value);
+        var value2 = parseFloat(document.getElementById('txtb').value);
+        var sum = value1 + value2;
+        alert(sum);
+    }
+</script>
+</html>
